@@ -11,3 +11,7 @@ cargo build --release
 ```sh
 time ./target/release/mandelbrot mandel.png 3456x2234 -1.20,0.35 -1,0.20
 ```
+
+### Example MandelBrot Output
+
+![MandelBrot Image](mandel.png)
